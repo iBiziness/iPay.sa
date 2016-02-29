@@ -12,6 +12,8 @@ first_published: 2016 # if migrating another site, the year of your first publis
 email: ipay@ib.sa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ipay.sa" # the base hostname & protocol for your site
+project-url: http://ib.sa/projects/ipay
+contact-url: http://ib.sa/#contact
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
