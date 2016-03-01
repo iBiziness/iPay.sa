@@ -66,28 +66,15 @@ prose:
   media: "images"
   metadata:
       features:
-        - name: "header"
-          field:
-            element: "text"
-            label: "Header"
-        - name: "Intro"
-          field:
-            element: "textarea"
-            label: "Introduction"
+      - name: "header"
+        field:
+          element: "text"
+          label: "Header"
+      - name: "Intro"
+        field:
+          element: "textarea"
+          label: "Introduction"
         items:
-          - name: "title"
-            field:
-              element: "text"
-              label: "Title"
-          - name: "description"
-            field:
-              element: "textarea"
-              label: "Description"
-          - name: "icon"
-            field:
-              element: "text"
-              label: "Icon (from https://fortawesome.github.io/Font-Awesome/cheatsheet/)"
-      paragraphs:
         - name: "title"
           field:
             element: "text"
@@ -96,7 +83,20 @@ prose:
           field:
             element: "textarea"
             label: "Description"
-        - name: "image"
+        - name: "icon"
           field:
             element: "text"
-            label: "Image Filename (images/filename.jpg)"
+            label: "Icon (from https://fortawesome.github.io/Font-Awesome/cheatsheet/)"
+      paragraphs:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Description"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image Filename (images/filename.jpg)"
