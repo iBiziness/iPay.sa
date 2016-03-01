@@ -65,7 +65,7 @@ prose:
   siteurl: "http://ipay.sa"
   media: "images"
   metadata:
-      features:
+      _data/features:
         - name: "header"
           field:
             element: "text"
@@ -74,16 +74,29 @@ prose:
           field:
             element: "textarea"
             label: "Introduction"
-      items:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Description"
-      - name: "icon"
-        field:
-          element: "text"
-          label: "Icon (from https://fortawesome.github.io/Font-Awesome/cheatsheet/)"
+      _data/features/items:
+        - name: "title"
+          field:
+            element: "text"
+            label: "Title"
+        - name: "description"
+          field:
+            element: "textarea"
+            label: "Description"
+        - name: "icon"
+          field:
+            element: "text"
+            label: "Icon (from https://fortawesome.github.io/Font-Awesome/cheatsheet/)"
+      _data/paragraphs:
+        - name: "title"
+          field:
+            element: "text"
+            label: "Title"
+        - name: "description"
+          field:
+            element: "textarea"
+            label: "Description"
+        - name: "image"
+          field:
+            element: "text"
+            label: "Image Filename (images/filename.jpg)"
