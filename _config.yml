@@ -65,7 +65,7 @@ prose:
   siteurl: "http://ipay.sa"
   media: "images"
   metadata:
-      _data/features:
+      features:
         - name: "header"
           field:
             element: "text"
@@ -74,7 +74,7 @@ prose:
           field:
             element: "textarea"
             label: "Introduction"
-      _data/features/items:
+      features/items:
         - name: "title"
           field:
             element: "text"
@@ -87,7 +87,7 @@ prose:
           field:
             element: "text"
             label: "Icon (from https://fortawesome.github.io/Font-Awesome/cheatsheet/)"
-      _data/paragraphs:
+      paragraphs:
         - name: "title"
           field:
             element: "text"
