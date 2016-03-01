@@ -65,7 +65,16 @@ prose:
   siteurl: "http://ipay.sa"
   media: "images"
   metadata:
-    _data:
+      features:
+        - name: "header"
+          field:
+            element: "text"
+            label: "Header"
+        - name: "Intro"
+          field:
+            element: "textarea"
+            label: "Introduction"
+      items:
       - name: "title"
         field:
           element: "text"
