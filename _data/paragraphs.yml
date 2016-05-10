@@ -1,11 +1,11 @@
     - title: Identity Management
-      description: Our system will utilize user customer payment details online and in-store, and centralizes all user information in a single portal to enable the creation of a unified identity for each consumer. Providing SME's with secure login service of system users.
+      description: Our solution aims to unite customer identity information and authentication credentials both online and in-store, by centralizing authentication and authorization, we allow for the maximum utilization of user information while keeping it's security intact, we provide a mean for SME's to reduce their initial cost of doing business, and increase the accuracy of analytics, in addition to the convenience given to the user.
       #image: images/pic01.jpg
 
     - title: Payment Platform
-      description: Our platform is a flexible solution that seamlessly connects into any merchant’s infrastructure to apply business rules which can optimize all transactions and ensure streamlined payments performance. This leads to reduced costs and improved user experiences, intelligently routing between multiple payment methods and across global boundaries based on data parameters, such as risk score, geo-location and card type.
+      description: Our platform is an agnostic solution that seamlessly integrates multiple payment methods into merchant's infrastructure, offering an optimized user experience for meeting business needs with regard to financial transactions, and providing a record of financial events that can easily be audited and analyzed against business rules and government regulations.
       #image: images/pic02.jpg
 
     - title: Invoicing and Billing System
-      description: Web-based invoicing application that helps you craft beautiful invoices, automatically send payment reminders and get paid faster online with no hustle.
+      description: Our solution is an invoicing and billing system that offers an easy way to invoice customers and track billable hours, send electronic invoices, payment reminders, and basically helps businesses and freelancers get paid faster and keep cleaner more organized financial records.
       #image: images/pic03.jpg
