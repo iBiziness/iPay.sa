@@ -1,0 +1,11 @@
+    - title: Identity Management
+      description: Our system will utilize user customer payment details online and in-store, and centralizes all user information in a single portal to enable the creation of a unified identity for each consumer. Providing SME's with secure login service of system users.
+      #image: images/pic01.jpg
+
+    - title: Payment Platform
+      description: Our platform is a flexible solution that seamlessly connects into any merchant’s infrastructure to apply business rules which can optimize all transactions and ensure streamlined payments performance. This leads to reduced costs and improved user experiences, intelligently routing between multiple payment methods and across global boundaries based on data parameters, such as risk score, geo-location and card type.
+      #image: images/pic02.jpg
+
+    - title: Invoicing and Billing System
+      description: Web-based invoicing application that helps you craft beautiful invoices, automatically send payment reminders and get paid faster online with no hustle.
+      #image: images/pic03.jpg
